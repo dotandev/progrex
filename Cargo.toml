@@ -1,0 +1,13 @@
+[package]
+name = "progrex"
+version = "0.1.0"
+edition = "2021"
+authors = ["dotandev"]
+description = "A simple and customizable CLI progress bar for Rust"
+repository = "https://github.com/dotandev/progrex"
+license = "MIT"
+keywords = ["progress", "cli", "bar"]
+categories = ["command-line-utilities"]
+
+
+[dependencies]
